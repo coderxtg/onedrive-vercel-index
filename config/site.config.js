@@ -38,7 +38,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Powered by <a href="https://www.youtube.com/channel/UCyI6Cu1BG3W_psY51k-2zZQ" target="_blank" rel="noopener noreferrer">Coder X Projects </a>. Made with ❤ by Coder X.',
+    'Click on me to Join <a href="https://telegram.me/FOVIES" target="_blank" rel="noopener noreferrer">Telegram.</a>. Made with ❤ by Coder X.',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
@@ -52,8 +52,8 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'YouTube',
-      link: 'https://www.youtube.com/@coderx1594',
+      name: 'Telegram',
+      link: 'https://telegram.me/FOVIES',
     },
   ],
 
