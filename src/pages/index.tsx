@@ -14,7 +14,7 @@ export default function Home() {
       <Head>
         <title>{siteConfig.title}</title>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3672423733931753"
-     crossorigin="anonymous"></script>
+     crossOrigin="anonymous"></script>
       </Head>
 
       <main className="flex w-full flex-1 flex-col bg-gray-50 dark:bg-gray-800">
