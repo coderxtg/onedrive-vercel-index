@@ -10,7 +10,11 @@ class MyDocument extends Document {
           <meta name="google-site-verification" content="MJIYCW5MoI6p1_TjqwcsO-VRxdgQoS1iqrZNEFDdL3c" />
           <meta name="google-site-verification" content="c-Occd7at4JCCLNSWxJmGMoIUAKibmK9alfUd8GUu4s" />
           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3672423733931753" crossOrigin="anonymous"></script>
-          <script type='text/javascript' src='//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js'></script>
+          <script
+            async
+            src="//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js"
+            data-cfasync="false"
+          ></script>
           <link rel="icon" href="/icons8-f-67.png" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
