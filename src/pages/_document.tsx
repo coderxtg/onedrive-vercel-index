@@ -20,6 +20,12 @@ class MyDocument extends Document {
           <script async type='text/javascript' src='//pl19527269.highrevenuegate.com/60/af/df/60afdf7bec13c212b93aba58c1511f46.js'></script>
         </Head>
         <body>
+          <script>
+          const script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.src = '//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js';
+          document.head.appendChild(script);
+          </script>
           <Main />
           <NextScript />
           <script async type='text/javascript' src='//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js'></script>
