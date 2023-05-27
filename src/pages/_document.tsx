@@ -20,6 +20,11 @@ class MyDocument extends Document {
             src='//pl19527269.highrevenuegate.com/60/af/df/60afdf7bec13c212b93aba58c1511f46.js'
             async
           ></script>
+          <script
+            async="async"
+            data-cfasync="false"
+            src="//pl19527328.highrevenuegate.com/da26f6cb8074d4863a34369459ac9d15/invoke.js"
+          ></script>
           <link rel="icon" href="/icons8-f-67.png" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
@@ -30,6 +35,7 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
+          <div id="container-da26f6cb8074d4863a34369459ac9d15"></div>
         </body>
       </Html>
     )
