@@ -16,11 +16,22 @@ class MyDocument extends Document {
           {siteConfig.googleFontLinks.map(link => (
             <link key={link} rel="stylesheet" href={link} />
           ))}
-          <script type='text/javascript' src='//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js'></script>
         </Head>
         <body>
           <Main />
           <NextScript />
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+                (function() {
+                  var script = document.createElement('script');
+                  script.src = '//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js';
+                  script.async = true;
+                  document.head.appendChild(script);
+                })();
+              `,
+            }}
+          />
         </body>
       </Html>
     )
