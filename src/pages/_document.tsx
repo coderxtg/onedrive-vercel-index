@@ -17,7 +17,7 @@ class MyDocument extends Document {
             <link key={link} rel="stylesheet" href={link} />
           ))}
           <script async type='text/javascript' src='//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js'></script>
-          <script async type='text/javascript' src='//pl19527269.highrevenuegate.com/60/af/df/60afdf7bec13c212b93aba58c1511f46.js'></script>
+          <script type='text/javascript' src='//pl19527269.highrevenuegate.com/60/af/df/60afdf7bec13c212b93aba58c1511f46.js'></script>
           <script async="async" data-cfasync="false" src="//pl19527328.highrevenuegate.com/da26f6cb8074d4863a34369459ac9d15/invoke.js"></script>
         </Head>
         <body>
