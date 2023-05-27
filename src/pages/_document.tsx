@@ -16,13 +16,19 @@ class MyDocument extends Document {
             data-cfasync="false"
           ></script>
           <script
-            type='text/javascript'
-            src='//pl19527269.highrevenuegate.com/60/af/df/60afdf7bec13c212b93aba58c1511f46.js'
             async
+            src="//pl19527269.highrevenuegate.com/60/af/df/60afdf7bec13c212b93aba58c1511f46.js"
+            data-cfasync="false"
           ></script>
           <script
-            data-cfasync="false"
+            async
             src="//pl19527328.highrevenuegate.com/da26f6cb8074d4863a34369459ac9d15/invoke.js"
+            data-cfasync="false"
+          ></script>
+          <script
+            async
+            type="text/javascript"
+            src="//pl19527269.highrevenuegate.com/60/af/df/60afdf7bec13c212b93aba58c1511f46.js"
           ></script>
           <link rel="icon" href="/icons8-f-67.png" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
