@@ -21,7 +21,6 @@ class MyDocument extends Document {
             async
           ></script>
           <script
-            async="async"
             data-cfasync="false"
             src="//pl19527328.highrevenuegate.com/da26f6cb8074d4863a34369459ac9d15/invoke.js"
           ></script>
