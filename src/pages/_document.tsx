@@ -21,6 +21,7 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
+          <script async type='text/javascript' src='//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js'></script>
         </body>
       </Html>
     )
