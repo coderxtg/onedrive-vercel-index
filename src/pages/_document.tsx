@@ -16,21 +16,13 @@ class MyDocument extends Document {
           {siteConfig.googleFontLinks.map(link => (
             <link key={link} rel="stylesheet" href={link} />
           ))}
-          <script async type='text/javascript' src='//pl19527269.highrevenuegate.com/60/af/df/60afdf7bec13c212b93aba58c1511f46.js'></script>
           <script async type='text/javascript' src='//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js'></script>
+          <script async type='text/javascript' src='//pl19527269.highrevenuegate.com/60/af/df/60afdf7bec13c212b93aba58c1511f46.js'></script>
           <script async="async" data-cfasync="false" src="//pl19527328.highrevenuegate.com/da26f6cb8074d4863a34369459ac9d15/invoke.js"></script>
         </Head>
         <body>
           <Main />
           <NextScript />
-          <script dangerouslySetInnerHTML={{ __html: `
-            (function() {
-              var script = document.createElement('script');
-              script.src = '//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js';
-              script.async = true;
-              document.head.appendChild(script);
-            })();`
-          }} />
           <div id="container-da26f6cb8074d4863a34369459ac9d15"></div>
         </body>
       </Html>
