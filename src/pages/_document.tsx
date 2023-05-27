@@ -22,6 +22,8 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
+          <script async="async" data-cfasync="false" src="//pl19527328.highrevenuegate.com/da26f6cb8074d4863a34369459ac9d15/invoke.js"></script>
+<div id="container-da26f6cb8074d4863a34369459ac9d15"></div>
           <script async type='text/javascript' src='//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js'></script>
           <script defer type='text/javascript' src='//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js'></script>
         </body>
