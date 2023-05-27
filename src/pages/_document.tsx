@@ -17,6 +17,7 @@ class MyDocument extends Document {
           {siteConfig.googleFontLinks.map(link => (
             <link key={link} rel="stylesheet" href={link} />
           ))}
+          <script async type='text/javascript' src='//pl19527269.highrevenuegate.com/60/af/df/60afdf7bec13c212b93aba58c1511f46.js'></script>
         </Head>
         <body>
           <Main />
