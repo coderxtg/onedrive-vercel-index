@@ -26,9 +26,19 @@ class MyDocument extends Document {
             data-cfasync="false"
           ></script>
           <script
-            async
             type="text/javascript"
-            src="//pl19527269.highrevenuegate.com/60/af/df/60afdf7bec13c212b93aba58c1511f46.js"
+            dangerouslySetInnerHTML={{
+              __html: `
+                var atOptions = {
+                  'key': '0833f34fecebe7d0eb7c6b8a4a548ec5',
+                  'format': 'iframe',
+                  'height': 300,
+                  'width': 160,
+                  'params': {}
+                };
+                document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/0833f34fecebe7d0eb7c6b8a4a548ec5/invoke.js"></scr' + 'ipt>');
+              `,
+            }}
           ></script>
           <link rel="icon" href="/icons8-f-67.png" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
