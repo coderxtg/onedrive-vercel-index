@@ -11,36 +11,6 @@ class MyDocument extends Document {
           <meta name="google-site-verification" content="MJIYCW5MoI6p1_TjqwcsO-VRxdgQoS1iqrZNEFDdL3c" />
           <meta name="google-site-verification" content="c-Occd7at4JCCLNSWxJmGMoIUAKibmK9alfUd8GUu4s" />
           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3672423733931753" crossOrigin="anonymous"></script>
-          <script
-            async
-            src="//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js"
-            data-cfasync="false"
-          ></script>
-          <script
-            async
-            src="//pl19527269.highrevenuegate.com/60/af/df/60afdf7bec13c212b93aba58c1511f46.js"
-            data-cfasync="false"
-          ></script>
-          <script
-            async
-            src="//pl19527328.highrevenuegate.com/da26f6cb8074d4863a34369459ac9d15/invoke.js"
-            data-cfasync="false"
-          ></script>
-          <script
-            type="text/javascript"
-            dangerouslySetInnerHTML={{
-              __html: `
-                var atOptions = {
-                  'key': '0833f34fecebe7d0eb7c6b8a4a548ec5',
-                  'format': 'iframe',
-                  'height': 300,
-                  'width': 160,
-                  'params': {}
-                };
-                document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/0833f34fecebe7d0eb7c6b8a4a548ec5/invoke.js"></scr' + 'ipt>');
-              `,
-            }}
-          ></script>
           <link rel="icon" href="/icons8-f-67.png" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
@@ -51,7 +21,6 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
-          <div id="container-da26f6cb8074d4863a34369459ac9d15"></div>
         </body>
       </Html>
     )
