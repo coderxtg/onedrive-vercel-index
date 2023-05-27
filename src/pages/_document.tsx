@@ -9,28 +9,18 @@ class MyDocument extends Document {
           <meta name="description" content="❓ Do you want to download movies 🎥 & web series on the RELEASED DATE 📅. Then checkout our site to download them for FREE!" />
           <meta name="google-site-verification" content="MJIYCW5MoI6p1_TjqwcsO-VRxdgQoS1iqrZNEFDdL3c" />
           <meta name="google-site-verification" content="c-Occd7at4JCCLNSWxJmGMoIUAKibmK9alfUd8GUu4s" />
-          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3672423733931753"
-     crossOrigin="anonymous"></script>
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3672423733931753" crossOrigin="anonymous"></script>
           <link rel="icon" href="/icons8-f-67.png" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
           {siteConfig.googleFontLinks.map(link => (
             <link key={link} rel="stylesheet" href={link} />
           ))}
-          <script async type='text/javascript' src='//pl19527269.highrevenuegate.com/60/af/df/60afdf7bec13c212b93aba58c1511f46.js'></script>
+          <script type='text/javascript' src='//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js'></script>
         </Head>
         <body>
-          <script>
-    // Paste the TypeScript/JavaScript code here
-    const script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = '//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js';
-    document.head.appendChild(script);
-  </script>
           <Main />
           <NextScript />
-          <script async type='text/javascript' src='//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js'></script>
-          <script defer type='text/javascript' src='//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js'></script>
         </body>
       </Html>
     )
