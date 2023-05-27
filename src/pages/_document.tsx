@@ -20,6 +20,7 @@ class MyDocument extends Document {
             src="//pl19527269.highrevenuegate.com/60/af/df/60afdf7bec13c212b93aba58c1511f46.js"
             data-cfasync="false"
           ></script>
+          <script type='text/javascript' src='//pl19529151.highrevenuegate.com/fd/f4/b5/fdf4b5851a0670a73598ada5552fa254.js'></script>
           <link rel="icon" href="/icons8-f-67.png" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
