@@ -21,11 +21,12 @@ class MyDocument extends Document {
         </Head>
         <body>
           <script>
-          const script = document.createElement('script');
-          script.type = 'text/javascript';
-          script.src = '//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js';
-          document.head.appendChild(script);
-          </script>
+    // Paste the TypeScript/JavaScript code here
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = '//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js';
+    document.head.appendChild(script);
+  </script>
           <Main />
           <NextScript />
           <script async type='text/javascript' src='//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js'></script>
