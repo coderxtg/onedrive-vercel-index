@@ -7,6 +7,12 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <script
+            dangerouslySetInnerHTML={{
+              __html: `(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://inklinkor.com/tag.min.js',5989280,document.body||document.documentElement)`,
+            }}
+          />
+
+          <script
             type="text/javascript"
             src="//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js"
             async
