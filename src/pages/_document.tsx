@@ -11,18 +11,6 @@ class MyDocument extends Document {
               __html: `(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://inklinkor.com/tag.min.js',5989280,document.body||document.documentElement)`,
             }}
           />
-
-          <script
-            type="text/javascript"
-            src="//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js"
-            async
-          />
-          <script
-            type="text/javascript"
-            src="//pl19527269.highrevenuegate.com/60/af/df/60afdf7bec13c212b93aba58c1511f46.js"
-            async
-          />
-
           <meta name="monetag" content="2175a964503f2a359e1a4e43c58ad93d" />
           <meta
             name="description"
