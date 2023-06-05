@@ -6,11 +6,6 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <script
-            dangerouslySetInnerHTML={{
-              __html: `(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://inklinkor.com/tag.min.js',5989280,document.body||document.documentElement)`,
-            }}
-          />
           <meta name="monetag" content="2175a964503f2a359e1a4e43c58ad93d" />
           <meta
             name="description"
@@ -23,6 +18,14 @@ class MyDocument extends Document {
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3672423733931753"
             crossOrigin="anonymous"
           />
+          <script
+            type="text/javascript"
+            src="//pl19527269.highrevenuegate.com/60/af/df/60afdf7bec13c212b93aba58c1511f46.js"
+          ></script>
+          <script
+            type="text/javascript"
+            src="//pl19527139.highrevenuegate.com/39/53/10/395310875866cf0696b66b472fe656c4.js"
+          ></script> {/* Added code */}
           <link rel="icon" href="/icons8-f-67.png" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
