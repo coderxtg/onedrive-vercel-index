@@ -12,6 +12,7 @@ export default function Home() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center bg-white dark:bg-gray-900">
       <Head>
+        <meta name="google-adsense-account" content="ca-pub-3672423733931753">
         <title>{siteConfig.title}</title>
       </Head>
 
