@@ -6,6 +6,8 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3672423733931753"
+     crossorigin="anonymous"></script>
           <meta name="monetag" content="2175a964503f2a359e1a4e43c58ad93d" />
           <meta
             name="description"
