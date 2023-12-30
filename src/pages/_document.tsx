@@ -11,6 +11,7 @@ class MyDocument extends Document {
             name="description"
             content="❓ Do you want to download movies 🎥 & web series on the RELEASED DATE 📅. Then checkout our site to download them for FREE!"
           />
+          <meta name="google-adsense-account" content="ca-pub-3672423733931753">
           <meta name="google-site-verification" content="MJIYCW5MoI6p1_TjqwcsO-VRxdgQoS1iqrZNEFDdL3c" />
           <meta name="google-site-verification" content="c-Occd7at4JCCLNSWxJmGMoIUAKibmK9alfUd8GUu4s" />
           <script
